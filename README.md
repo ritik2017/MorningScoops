@@ -1,0 +1,2 @@
+# MorningScoops
+Developers club project.
