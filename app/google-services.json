@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "569068745868",
+    "firebase_url": "https://morningscoops-ead73.firebaseio.com",
+    "project_id": "morningscoops-ead73",
+    "storage_bucket": "morningscoops-ead73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569068745868:android:1a1131e9e2863333",
+        "android_client_info": {
+          "package_name": "com.example.android.morningscoops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569068745868-v24adp9r9q79frcu15heta7vouq0jf2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.morningscoops",
+            "certificate_hash": "de3c2501a0640d2967f6693c7ef1cfe7d64c7752"
+          }
+        },
+        {
+          "client_id": "569068745868-08l9h1lgo3nmh9p5orvo5deba21qql3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbHr5cZVKQyE2NaGdCG8b0p81Or0xd_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569068745868-08l9h1lgo3nmh9p5orvo5deba21qql3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
